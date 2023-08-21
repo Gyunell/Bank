@@ -1,0 +1,45 @@
+C:\Users\user\Desktop\Winform_Course\bin\Debug\net7.0-windows\Winform_Course.exe
+C:\Users\user\Desktop\Winform_Course\bin\Debug\net7.0-windows\Winform_Course.deps.json
+C:\Users\user\Desktop\Winform_Course\bin\Debug\net7.0-windows\Winform_Course.runtimeconfig.json
+C:\Users\user\Desktop\Winform_Course\bin\Debug\net7.0-windows\Winform_Course.dll
+C:\Users\user\Desktop\Winform_Course\bin\Debug\net7.0-windows\Winform_Course.pdb
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\Winform_Course.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\Winform_Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\Winform_Course.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\Winform_Course.AssemblyInfo.cs
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\Winform_Course.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\Winform_Course.dll
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\refint\Winform_Course.dll
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\Winform_Course.pdb
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\Winform_Course.genruntimeconfig.cache
+C:\Users\user\Desktop\Winform_Course\obj\Debug\net7.0-windows\ref\Winform_Course.dll
+C:\Users\user\Desktop\Bank\bin\Debug\net7.0-windows\Winform_Course.exe
+C:\Users\user\Desktop\Bank\bin\Debug\net7.0-windows\Winform_Course.deps.json
+C:\Users\user\Desktop\Bank\bin\Debug\net7.0-windows\Winform_Course.runtimeconfig.json
+C:\Users\user\Desktop\Bank\bin\Debug\net7.0-windows\Winform_Course.dll
+C:\Users\user\Desktop\Bank\bin\Debug\net7.0-windows\Winform_Course.pdb
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\Winform_Course.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\Winform_Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\Winform_Course.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\Winform_Course.AssemblyInfo.cs
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\Winform_Course.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\Winform_Course.dll
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\refint\Winform_Course.dll
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\Winform_Course.pdb
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\Winform_Course.genruntimeconfig.cache
+C:\Users\user\Desktop\Bank\obj\Debug\net7.0-windows\ref\Winform_Course.dll
+C:\Users\user\Desktop\Winforms Project\Bank\bin\Debug\net7.0-windows\Winform_Course.exe
+C:\Users\user\Desktop\Winforms Project\Bank\bin\Debug\net7.0-windows\Winform_Course.deps.json
+C:\Users\user\Desktop\Winforms Project\Bank\bin\Debug\net7.0-windows\Winform_Course.runtimeconfig.json
+C:\Users\user\Desktop\Winforms Project\Bank\bin\Debug\net7.0-windows\Winform_Course.dll
+C:\Users\user\Desktop\Winforms Project\Bank\bin\Debug\net7.0-windows\Winform_Course.pdb
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\Winform_Course.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\Winform_Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\Winform_Course.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\Winform_Course.AssemblyInfo.cs
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\Winform_Course.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\Winform_Course.dll
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\refint\Winform_Course.dll
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\Winform_Course.pdb
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\Winform_Course.genruntimeconfig.cache
+C:\Users\user\Desktop\Winforms Project\Bank\obj\Debug\net7.0-windows\ref\Winform_Course.dll
